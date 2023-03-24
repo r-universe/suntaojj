@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AsthmaNHANES"]
+	path = AsthmaNHANES
+	url = https://github.com/cran/AsthmaNHANES
+	shallow = true
+	registered = true
+[submodule "CopulaCenR"]
+	path = CopulaCenR
+	url = https://github.com/cran/CopulaCenR
+	shallow = true
+	registered = true
